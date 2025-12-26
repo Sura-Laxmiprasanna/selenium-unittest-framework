@@ -62,7 +62,8 @@ Open the report in any browser to view execution status
 Login functionality
 Logout functionality
 Validation using explicit waits
-![testing_orange_hrm](https://github.com/user-attachments/assets/bbbe68a5-46ea-4e61-b256-727a0483649d)
+![testing_orange_hrm](https://github.com/user-attachments/assets/fd8104e4-3376-4a24-b4ed-03a5fbeaf5ce)
+
 
 
 📌 Best Practices Followed
