@@ -54,14 +54,16 @@ python -m unittest selenium_basics.Tests.Login
 Test execution generates HTML reports
 Reports are stored inside the reports folder
 Open the report in any browser to view execution status
-https://1drv.ms/i/c/e091aa0d6b1c1f02/IQDZhD9x0OVTSamBZjUTNjEsARQ-iVxP5w3fHMxoQlPwnMQ?e=FCyQCa
+<img width="1347" height="690" alt="testcase_html_reports_passed" src="https://github.com/user-attachments/assets/e031dd79-9385-4d28-b527-e9c4a74cab40" />
+
 
 🔐 Test Scenario Covered
 
 Login functionality
 Logout functionality
 Validation using explicit waits
-https://1drv.ms/i/c/e091aa0d6b1c1f02/IQDTULSWOXigTL-hzVsINdfuAf-9MtywYhxf8BbRijZ4Rus?e=9HGk7c
+![testing_orange_hrm](https://github.com/user-attachments/assets/bbbe68a5-46ea-4e61-b256-727a0483649d)
+
 
 📌 Best Practices Followed
 
@@ -75,5 +77,3 @@ Git-friendly setup (.gitignore)
 Laxmiprasanna Sura
 🔗 GitHub: https://github.com/Sura-Laxmiprasanna
 🔗 LinkedIn: https://www.linkedin.com/in/sura-laxmiprasanna-a25b0b343/
-
-
